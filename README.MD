@@ -1,0 +1,9 @@
+
+# Contact form
+
+This assignment is about recreating responsive Figma design using html/css: https://www.figma.com/community/file/1196886880304210794
+
+<h4>🔹 Contact form sample - <a href="https://simonakom.github.io/wikipedia-page/richard-gere.html" style="font-size:small;">View</a><h4>
+
+
+
