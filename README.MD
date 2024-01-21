@@ -6,5 +6,3 @@ This assignment is about recreating responsive Figma design using html/css:
 
 <h4>🔹 Contact form sample - <a href="https://simonakom.github.io/contact-form/contact-form-responsive.html" style="font-size:small;">View</a><h4>
 
-
-
